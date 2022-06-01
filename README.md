@@ -10,3 +10,5 @@
 * Techniques employed: 
 * TIME SERIES ANALYSIS-> models run both in levels and first differences, Unit Root tests (ADF,PP,KPSS), cointegration tests (Engle-Granger, Johansen), ARDL model and PSS bounds test, diagnosis tests (Shapiro-Wilk, Breusch-Godfrey, Jarque-Bera) and Impulse Response Functions, VAR and Granger-Causality test, Cholesky-Decomposition and IRFs, ARIMA
 * PANEL DATA ANALYSIS-> random effects (RE) model, fixed effects (FE) model using the ‘within’ estimator, pooled OLS and test for poolability, Hausman test, fixed effects model with individual effects only time effects only and with two-way effects, diagnostic tests on the residuals of each model (white noise: auto-correlation and heteroskedasticity), instrumental variable (IV), 2SLS model, GMM model. 
+* Project PDF (https://github.com/SalvoLDN/Advanced-Econometrics-Project/blob/main/AdvancedEconometrics_Project_33636339.pdf)
+* RMarkdown Script (https://github.com/SalvoLDN/Advanced-Econometrics-Project/blob/main/Advanced_Econometrics_Project_Final_Script.Rmd)
