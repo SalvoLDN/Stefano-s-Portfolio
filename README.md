@@ -13,8 +13,9 @@
 * [Project PDF](https://github.com/SalvoLDN/Advanced-Econometrics-Project/blob/main/AdvancedEconometrics_Project_33636339.pdf)
 * [RMarkdown Script](https://github.com/SalvoLDN/Advanced-Econometrics-Project/blob/main/Advanced_Econometrics_Project_Final_Script.Rmd)
 
-#[Project 2: English premier League 2021-22 Dynamic Dashboard](https://github.com/SalvoLDN/World-Energy-Consumption-Dashboard.git)
+#[Project 2: S&P 500 Dynamic Dashboard](https://github.com/SalvoLDN/S-P500-Dashboard)
 * Dynamic Dashboard for Data Visualization using Excel
 * The dataset used for the project was downloaded from a Kaggle Dataset 
-* A description of the dataset and relevant credits can be found [here](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption)
+* A description of the dataset and relevant credits can be found [here](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks)
 * The dashboard itself is the result of my own work
+* The dataset in kaggle gets updated daily. The dataset used for this dashboard was downloaded on 01/06/2022.
