@@ -14,7 +14,7 @@
 * [RMarkdown Script](https://github.com/SalvoLDN/Advanced-Econometrics-Project/blob/main/Advanced_Econometrics_Project_Final_Script.Rmd)
 
 #[Project 2: World Energy Consumption Dynamic Dashboard](https://github.com/SalvoLDN/World-Energy-Consumption-Dashboard.git)
-##Dynamic Dashboard for Data Visualization
+* Dynamic Dashboard for Data Visualization
 * The dataset used for the project was downloaded from a Kaggle Dataset 
 * A description of the dataset and relevant credits can be found [here](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption)
 * The dashboard itself is the result of my own work
