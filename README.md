@@ -19,3 +19,16 @@
 * A description of the dataset and relevant credits can be found [here](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 * The dashboard itself is the result of my own work
 * [Dashboard](https://github.com/SalvoLDN/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.xlsx)
+
+#[Project 3: Advanced Quantitative Economics Project](https://github.com/SalvoLDN/Advanced-Quantitative-Economics-Project)
+* Exploratory Data Analysis developed for a University Project using excel
+* Project topic: Regional inequalities and determinants of spending by secondary schools in England
+* Project Questions: 
+1. What is the extent of regional inequalities in expenditure by secondary schools?
+2. What has been the recent evolution of total gross expenditure by secondary schools?
+3. What are the determinants of secondary school expenditure?
+* Dataset downloaded from the DfE
+* Developed in Excel
+* Techniques: Data Cleaning, Pivot Tables, Data Visualization, Regression Analysis
+* [Project PDF](https://github.com/SalvoLDN/Advanced-Quantitative-Economics-Project/blob/main/Project%2001.pdf)
+* [Project Excel Spreadsheet](https://github.com/SalvoLDN/Advanced-Quantitative-Economics-Project/blob/main/Project%2001.xlsx)
