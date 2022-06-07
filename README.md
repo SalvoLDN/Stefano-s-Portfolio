@@ -1,4 +1,4 @@
-#Stefano's Portfolio
+#Stefano Luca Salvigni Projects Portfolio
 
 #[Project 1:Advanced Econometrics Project](https://github.com/SalvoLDN/Advanced-Econometrics-Project.git)
 * This is a project that was developed for the Advanced Econometrics module of my BSC in Economics with econometrics 
